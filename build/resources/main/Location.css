@@ -1,0 +1,41 @@
+.table-view .column-header,
+.table-view .column-header-background .filler,
+.table-view .column-header-background {
+    -fx-background-color: #00DFDB;
+    -fx-text-alignment: CENTER;
+    -fx-alignment: BASELINE_CENTER;
+}
+
+/*.table-row-cell{*/
+/*    -fx-background-color: transparent;*/
+/*    -fx-text-fill: WHITE;*/
+/*    -fx-text-alignment: CENTER;*/
+/*    */
+/*}*/
+
+.label {
+    -fx-alignment: CENTER;
+    -fx-max-width: 500;
+    -fx-text-fill: WHITE;
+
+    -fx-text-alignment: CENTER;
+
+}
+
+.hbox {
+    -fx-alignment: CENTER;
+    -fx-text-alignment: CENTER;
+}
+
+
+
+.table-row-cell:selected {
+    -fx-background-color: #00CEE1 ;
+    -fx-text-background-color: white;
+    -fx-background-radius: 5px;
+    -fx-background-insets: 2px;
+}
+
+.combo-box {
+    -fx-background-color: WHITE;
+}
