@@ -67,9 +67,9 @@ Run offline: gradle run --args="offline"
     Select a Ship from the table, a good and a quantity and press confirm
 
 Image References:
-    Alfanz. (n.d.). Ecommerce free icon [Illustration]. Flaticon. https://www.flaticon.com/free-icons/marketplace
-    Dan, D. (n.d.). space ship launch icons [Illustration]. Flaticon. https://www.flaticon.com/premium-icon/spaceship_3155295
-    Freepik. (n.d.). location icons [Illustrations]. Flaticon. https://www.flaticon.com/free-icons/location
-    Ware, G. (n.d.). transfer money icons [Illustration]. Flaticon. https://www.flaticon.com/free-icons/transfer-money
+    - Alfanz. (n.d.). Ecommerce free icon [Illustration]. Flaticon. https://www.flaticon.com/free-icons/marketplace
+    - Dan, D. (n.d.). space ship launch icons [Illustration]. Flaticon. https://www.flaticon.com/premium-icon/spaceship_3155295
+    - Freepik. (n.d.). location icons [Illustrations]. Flaticon. https://www.flaticon.com/free-icons/location
+    - Ware, G. (n.d.). transfer money icons [Illustration]. Flaticon. https://www.flaticon.com/free-icons/transfer-money
 
 
